@@ -913,10 +913,10 @@
 /area/rogue/outdoors/mountains/decap/stepbelow)
 "lK" = (
 /obj/structure/closet/crate/chest/lootbox,
+/obj/item/ingot/blacksteel,
+/obj/item/ingot/blacksteel,
+/obj/item/ingot/blacksteel,
 /obj/item/roguecoin/gold/pile,
-/obj/effect/spawner/lootdrop/potion_stats,
-/obj/effect/spawner/lootdrop/potion_stats,
-/obj/effect/spawner/lootdrop/potion_stats,
 /turf/open/floor/rogue/naturalstone,
 /area/rogue/under/cave/dragonden)
 "lM" = (
@@ -2010,7 +2010,7 @@
 "zT" = (
 /obj/structure/closet/crate/chest/lootbox,
 /obj/item/riddleofsteel,
-/obj/effect/spawner/lootdrop/potion_vitals,
+/obj/item/roguegem/diamond,
 /obj/effect/spawner/lootdrop/potion_vitals,
 /turf/open/floor/rogue/naturalstone,
 /area/rogue/under/cave/dragonden)
@@ -2034,9 +2034,9 @@
 /area/rogue/outdoors/mountains/decap/stepbelow)
 "Af" = (
 /obj/structure/closet/crate/chest/lootbox,
-/obj/item/scomstone,
 /obj/item/rogueweapon/sword/long/blackflamb,
-/obj/effect/spawner/lootdrop/potion_stats,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/armor,
+/obj/item/roguecoin/gold/pile,
 /turf/open/floor/rogue/naturalstone,
 /area/rogue/under/cave/dragonden)
 "Ah" = (
@@ -2359,9 +2359,10 @@
 /area/rogue/outdoors/mountains/decap)
 "Ed" = (
 /obj/structure/closet/crate/chest/lootbox,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/armor,
+/obj/item/clothing/neck/roguetown/psicross/ravox,
 /obj/item/roguecoin/gold/pile,
-/obj/effect/spawner/lootdrop/potion_vitals,
-/obj/effect/spawner/lootdrop/potion_vitals,
+/obj/effect/spawner/lootdrop/potion_stats,
 /turf/open/floor/rogue/naturalstone,
 /area/rogue/under/cave/dragonden)
 "Ee" = (
