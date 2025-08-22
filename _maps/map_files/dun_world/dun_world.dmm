@@ -72133,6 +72133,13 @@
 /obj/item/storage/roguebag,
 /turf/open/floor/rogue/wood/nosmooth,
 /area/rogue/indoors/town/dwarfin)
+"tTs" = (
+/obj/effect/decal/wood/herringbone2,
+/obj/structure/roguemachine/scomm{
+	pixel_y = -32
+	},
+/turf/open/floor/rogue/ruinedwood/herringbone,
+/area/rogue/indoors/shelter/woods)
 "tTA" = (
 /obj/structure/closet/crate/chest,
 /obj/effect/spawner/lootdrop/roguetown/dungeon/medical,
@@ -261476,7 +261483,7 @@ dpy
 lap
 tlX
 slI
-lQr
+tTs
 dpy
 pfw
 car
