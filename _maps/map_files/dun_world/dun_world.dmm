@@ -6922,6 +6922,12 @@
 "bUt" = (
 /turf/open/floor/rogue/wood,
 /area/rogue/outdoors/town)
+"bUu" = (
+/obj/structure/roguemachine/scomm{
+	pixel_y = -32
+	},
+/turf/open/floor/carpet/red,
+/area/rogue/indoors/town)
 "bUE" = (
 /obj/effect/decal/cobbleedge{
 	dir = 10;
@@ -268103,7 +268109,7 @@ uDl
 lRv
 xWk
 xWk
-xWk
+bUu
 guo
 guo
 wKr
